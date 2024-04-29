@@ -1,0 +1,4 @@
+repository "a45933_DiegoVallina_Tarefa1@a45933@cloud"
+  path "/"
+    br "/main"
+    co "/main"
